@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuroopmallick
 - 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on anywhere.
 - 📫 How to reach me through git hub.
 
